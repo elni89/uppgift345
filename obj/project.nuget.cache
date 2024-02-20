@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VObAq+cE2yEvvIUv9VIV3LWLPMpG7p9ofrs2fhRJvjZCnio77mRSsymaYcdpkgVq1L3drVlNRxm11xcvBdWdvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikla\\Downloads\\ProgrammeringFordjupningC-sharp-main (1)\\ProgrammeringFordjupningC-sharp-main\\Statistics\\Statistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikla\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\nikla\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\nikla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
